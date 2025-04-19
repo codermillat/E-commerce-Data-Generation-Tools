@@ -6,7 +6,7 @@ Python tools for generating and validating synthetic e-commerce order data with 
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/ecommerce-data-generator.git
+git clone https://github.com/codermillat/E-commerce-Data-Generation-Tools.git
 cd ecommerce-data-generator
 
 # Install dependencies
